@@ -34,7 +34,7 @@ document.addEventListener('DOMContentLoaded', function () {
         };
 
         // Append remove button to the li
-        li.appendChild(removeBtn);
+        li.appendChild(remove-btn);
 
         // Append li to the task list
         taskList.appendChild(li);
